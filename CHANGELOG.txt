@@ -1,0 +1,2 @@
+Version 1.0 ()
+- added all artifacts available in hota 1.8.0

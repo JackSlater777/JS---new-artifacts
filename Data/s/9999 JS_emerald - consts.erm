@@ -1,0 +1,29 @@
+ZVSE2
+
+
+; ==============  ARTIFACTS  ===============
+!#DC(ART_DIPLOMATS_CLOAK)          = 171;
+!#DC(ART_PENDANT_OF_REFLECTION)    = 172;
+!#DC(ART_IRONFIST_OF_THE_OGRE)     = 173;
+!#DC(ART_TRIDENT_OF_DOMINION)      = 174;
+!#DC(ART_SHIELD_OF_NAVAL_GLORY)    = 175;
+!#DC(ART_ROYAL_ARMOR_OF_NIX)       = 176;
+!#DC(ART_CROWN_OF_THE_FIVE_SEAS)   = 177;
+!#DC(ART_WAYFARERS_BOOTS)          = 178;
+!#DC(ART_RUNES_OF_IMMINENCY)       = 179;
+!#DC(ART_DEMONS_HORSESHOE)         = 180;
+!#DC(ART_SHAMANS_PUPPET)           = 181;
+!#DC(ART_HIDEOUS_MASK)             = 182;
+!#DC(ART_RING_OF_SUPPRESSION)      = 183;
+!#DC(ART_PENDANT_OF_DOWNFALL)      = 184;
+!#DC(ART_RING_OF_OBLIVION)         = 185;
+!#DC(ART_CAPE_OF_SILENCE)          = 186;
+!#DC(ART_GOLDEN_GOOSE)             = 187;
+!#DC(ART_HORN_OF_THE_ABYSS)        = 188;
+!#DC(ART_CHARM_OF_ECLIPSE)         = 189;
+!#DC(ART_SEAL_OF_SUNSET)           = 190;
+!#DC(ART_PLATE_OF_DYING_LIGHT)     = 191;
+!#DC(ART_SLEEPKEEPER)              = 192;
+
+
+; ============  END ARTIFACTS  =============

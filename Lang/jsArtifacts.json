@@ -1,0 +1,15 @@
+{
+    "jsArtifactsMod": {
+        "185": {
+            "name": "Ring of Oblivion",
+            "msg": "%s makes all losses of the hero %s irretrievable!"
+        },
+        "186": {
+            "name": "Cape of Silence",
+            "msg": "%s prevents %s from casting level 1 and 2 spells."
+        },
+        "formats": {
+            "artMinusMoraleOrLuck": "Enemy has %s: %d"
+        }
+    }
+}

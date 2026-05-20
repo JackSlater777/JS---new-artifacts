@@ -1,0 +1,17 @@
+ZVSE2
+
+
+// Перегрузка функции из ERA ERM Framework
+!?FU(GetMaxArtifactId);
+!#VA(result:x);
+
+!!re i/(ART_LAST_WOG)/999;
+  ; get the first character of the name of the artifact
+  !!SN:H^art^/i/0/?z1;
+  !!UN:C9597928/1/?(firstChar:y);
+
+  ; end the loop if the first character is #
+  !!br&(firstChar)=35;
+!!en;
+
+!!VR(result):Si -1;

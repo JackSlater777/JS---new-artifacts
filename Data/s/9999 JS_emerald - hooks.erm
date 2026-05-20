@@ -1,0 +1,15 @@
+ZVSE2
+
+
+!?FU(OnStartOrLoad);
+!!SN:L^erm_hooker.era^/?(hooker:y);
+!!FU&(hooker)=0:E;
+!!SN:A(hooker)/^SetHook^/?(hookingFuncAddress:y);
+!!FU(jsEmerald_CreateERMHook):P(hookingFuncAddress);
+
+
+!?FU(jsEmerald_CreateERMHook);
+!#VA(setHook:x);
+
+; Interference Artifacts
+!!SN&i^js_hota_interference^:E(setHook)/1/4638788/(js_OnDlg_HeroPreview_SpellPowerWrite);
