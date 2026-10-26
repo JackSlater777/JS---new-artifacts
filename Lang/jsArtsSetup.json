@@ -2,7 +2,7 @@
     "era": {
         "artifacts": {
             "49": {
-                "description": "{Значок Смелости}\n\nПовышает Боевой Дух героя на 1 балл."
+                "description": "{Badge of Courage}\n\nThe Badge of Courage increases your Morale by +1."
             },
 
             "128": {"type": 1},
@@ -50,11 +50,11 @@
             "170": {"type": 1},
 
             "171": {
-                "name": "Мантия Дипломата",
+                "name": "Diplomat's Cloak",
                 "cost": 0,
                 "position": 2,
                 "type": 1,
-                "description": "{Мантия Дипломата}\n\nВ дополнение к эффекту отдельных компонентов увеличивает силу армии героя в глазах нейтральных монстров и Гильдии Воров в 3 раза.",
+                "description": "{Diplomat's Cloak}\n\nCounting component effects this cloak reduces the cost of surrendering by 30% and allows your hero to surrender when battling enemy without a hero. Allows to retreat or surrender when defending a town or attacking and casting a spell in the first round of a combat. Multiplies your hero army strength by 3 for neutral armies (when determining their desire to join hero or run away) and Thieves Guild.",
                 "comboArtifactId": 14,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -62,11 +62,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "172": {
-                "name": "Кулон Отражения",
+                "name": "Pendant of Reflection",
                 "cost": 0,
                 "position": 3,
                 "type": 1,
-                "description": "{Кулон Отражения}\n\nВ дополнение к эффекту отдельных компонентов усиливает вторичный навык Сопротивление, если он есть у героя, на 20%.",
+                "description": "{Pendant of Reflection}\n\nCounting component effects this item increases your chance to resist a hostile spell by 50%.",
                 "comboArtifactId": 13,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -74,11 +74,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "173": {
-                "name": "Железный Кулак Огра",
+                "name": "Ironfist of the Ogre",
                 "cost": 0,
                 "position": 4,
                 "type": 1,
-                "description": "{Железный Кулак Огра}\n\nВ дополнение к эффекту отдельных компонентов в начале боя накладывает на все дружественные отряды на 50 раундов заклинания Ускорение, Жажда Крови, Огненный Щит и Контрудар экспертной ступени.",
+                "description": "{Ironfist of the Ogre}\n\nCounting component effects the Ironfist of the Ogre gives hero +5 Attack, +5 Defence, +4 Power, and +4 Knowledge. Casts these spells on expert level at the beginning of combat on all of your creatures for 50 rounds: Haste, Bloodlust, Fire Shield, and Counterstrike.",
                 "comboArtifactId": 16,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -86,11 +86,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "174": {
-                "name": "Трезубец Могущества",
+                "name": "Trident of Dominion",
                 "cost": 7000,
                 "position": 4,
                 "type": 8,
-                "description": "{Трезубец Могущества}\n\nПовышает Атаку героя на 7.",
+                "description": "{Trident of Dominion}\n\nThis right-handed weapon increases your Attack skill by +7.",
                 "comboArtifactId": -1,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -98,11 +98,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "175": {
-                "name": "Щит Морской Славы",
+                "name": "Shield of Naval Glory",
                 "cost": 7000,
                 "position": 5,
                 "type": 8,
-                "description": "{Щит Морской Славы}\n\nПовышает защиту героя на 7.",
+                "description": "{Shield of Naval Glory}\n\nThis left-handed item increases your Defense skill by +7.",
                 "comboArtifactId": -1,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -110,11 +110,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "176": {
-                "name": "Королевские Доспехи Никсов",
+                "name": "Royal Armor of Nix",
                 "cost": 7000,
                 "position": 6,
                 "type": 8,
-                "description": "{Королевские Доспехи Никсов}\n\nПовышает Колдовскую Силу героя на 6.",
+                "description": "{Royal Armor of Nix}\n\nWorn on the torso, this item increases your Power skill by +6.",
                 "comboArtifactId": -1,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -122,11 +122,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "177": {
-                "name": "Корона Пяти Морей",
+                "name": "Crown of the Five Seas",
                 "cost": 7000,
                 "position": 1,
                 "type": 8,
-                "description": "{Корона Пяти Морей}\n\nПовышает Знания героя на 6.",
+                "description": "{Crown of the Five Seas}\n\nWorn on the head, this item increases your Knowledge skill by +6.",
                 "comboArtifactId": -1,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -134,11 +134,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "178": {
-                "name": "Сапоги Странника",
+                "name": "Wayfarer's Boots",
                 "cost": 5000,
                 "position": 8,
                 "type": 4,
-                "description": "{Сапоги Странника}\n\nПозволяют перемещаться по любой местности без штрафов.",
+                "description": "{Wayfarer's Boots}\n\nWorn on the feet, these boots remove movement penalty on rough terrains, allowing to move at 100% cost on any terrain.",
                 "comboArtifactId": -1,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -146,11 +146,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "179": {
-                "name": "Руны Неизбежности",
+                "name": "Runes of Imminency",
                 "cost": 2000,
                 "position": 9,
                 "type": 2,
-                "description": "{Руны Неизбежности}\n\nУменьшают Удачу отрядов противника на 1.",
+                "description": "{Runes of Imminency}\n\nDecrease enemy's Luck by 1.",
                 "comboArtifactId": -1,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -158,11 +158,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "180": {
-                "name": "Подкова Демона",
+                "name": "Demon's Horseshoe",
                 "cost": 2000,
                 "position": 9,
                 "type": 2,
-                "description": "{Подкова Демона}\n\nУменьшают Удачу отрядов противника на 1.",
+                "description": "{Demon's Horseshoe}\n\nDecrease enemy's Luck by 1.",
                 "comboArtifactId": -1,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -170,11 +170,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "181": {
-                "name": "Кукла Шамана",
+                "name": "Shaman's Puppet",
                 "cost": 4000,
                 "position": 9,
                 "type": 4,
-                "description": "{Кукла Шамана}\n\nУменьшают Удачу отрядов противника на 2.",
+                "description": "{Shaman's Puppet}\n\nDecrease enemy's Luck by 2.",
                 "comboArtifactId": -1,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -182,11 +182,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "182": {
-                "name": "Устрашающая Маска",
+                "name": "Hideous Mask",
                 "cost": 4000,
                 "position": 9,
                 "type": 4,
-                "description": "{Устрашающая Маска}\n\nУменьшает Боевой Дух отрядов противника на 1.",
+                "description": "{Hideous Mask}\n\nDecreases enemy's Morale by 1.",
                 "comboArtifactId": -1,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -194,11 +194,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "183": {
-                "name": "Кольцо Подавления",
+                "name": "Ring of Suppression",
                 "cost": 4000,
                 "position": 7,
                 "type": 2,
-                "description": "{Кольцо Подавления}\n\nУменьшает Боевой Дух отрядов противника на 1.",
+                "description": "{Ring of Suppression}\n\nDecreases enemy's Morale by 1.",
                 "comboArtifactId": -1,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -206,11 +206,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "184": {
-                "name": "Кулон Разорения",
+                "name": "Pendant of Downfall",
                 "cost": 7000,
                 "position": 3,
                 "type": 8,
-                "description": "{Кулон Разорения}\n\nУменьшает Боевой Дух отрядов противника на 2.",
+                "description": "{Pendant of Downfall}\n\nDecreases enemy's Morale by 2.",
                 "comboArtifactId": -1,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -218,11 +218,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "185": {
-                "name": "Кольцо Забвения",
+                "name": "Ring of Oblivion",
                 "cost": 7500,
                 "position": 7,
                 "type": 8,
-                "description": "{Кольцо Забвения}\n\nДелает все потери в бою безвозвратными: трупы отрядов сразу исчезают, запрещено колдовство воскрешающих заклинаний, вампиризм не позволяет оживлять существ, и после боя невозможно поднять нежить при помощи некромантии.",
+                "description": "{Ring of Oblivion}\n\nWorn on a finger, this item makes all losses in the battle irrevocable:  lost creatures in a unit cannot be restored by any means, and corpses disappear right after the unit's death.",
                 "comboArtifactId": -1,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -230,11 +230,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "186": {
-                "name": "Накидка Молчания",
+                "name": "Cape of Silence",
                 "cost": 7500,
                 "position": 2,
                 "type": 8,
-                "description": "{Накидка Молчания}\n\nОтнимает у вас и вашего противника возможность использовать заклинания 1 и 2 уровня во время боя.",
+                "description": "{Cape of Silence}\n\nWhile wearing this cape, neither you nor your opponent will be able to cast level 1-2 spells during combat.",
                 "comboArtifactId": -1,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -242,11 +242,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "187": {
-                "name": "Золотой Гусь",
+                "name": "Golden Goose",
                 "cost": 0,
                 "position": 9,
                 "type": 1,
-                "description": "{Золотой Гусь}\n\nВ дополнение к эффекту отдельных компонентов приносит 4750 ед. золота в день.",
+                "description": "{Golden Goose}\n\nCounting component effects the Golden Goose increases your income by 7000 gold per day.",
                 "comboArtifactId": 15,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -254,11 +254,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "188": {
-                "name": "Рог Бездны",
+                "name": "Horn of the Abyss",
                 "cost": 50000,
                 "position": 9,
                 "type": 1,
-                "description": "{Рог Бездны}\n\nПри гибели живого отряда в бою призывает на его место отряд Фангармов, который продолжает служить герою и после боя. Общее здоровье призываемых Фангармов соотвествует половине общего здоровья погибшего отряда, но их количество не больше половины количества существ в этом отряде. На павших Фангармов Рог не действует.",
+                "description": "{Horn of the Abyss}\n\nAfter a stack of living creatures is slain, a stack of Fangarms will rise in their stead and will stay loyal to the hero after the battle concludes. Total Hit Points of this stack will be equal to half of the slain stack's total Hit Points, but quantity of the Fangarms summoned thus should not exceed half of quantity of creatures in the slain stack. Slaying Fangarms will not trigger the Horn effect.",
                 "comboArtifactId": -1,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -266,11 +266,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "189": {
-                "name": "Амулет Затмения",
+                "name": "Charm of Eclipse",
                 "cost": 5000,
                 "position": 9,
                 "type": 4,
-                "description": "{Амулет Затмения}\n\nУменьшает Колдовскую Силу героя противника на 10% на время боя.",
+                "description": "{Charm of Eclipse}\n\nThis item reduces the Power skill of enemy hero by 10% during combat.",
                 "comboArtifactId": -1,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -278,11 +278,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "190": {
-                "name": "Печать Заката",
+                "name": "Seal of Sunset",
                 "cost": 5000,
                 "position": 7,
                 "type": 4,
-                "description": "{Печать Заката}\n\nУменьшает Колдовскую Силу героя противника на 10% на время боя.",
+                "description": "{Seal of Sunset}\n\nThis item reduces the Power skill of enemy hero by 10% during combat.",
                 "comboArtifactId": -1,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -290,11 +290,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "191": {
-                "name": "Латы Гаснущих Светил",
+                "name": "Plate of Dying Light",
                 "cost": 10000,
                 "position": 6,
                 "type": 8,
-                "description": "{Латы Гаснущих Светил}\n\nУменьшает Колдовскую Силу героя противника на 25% на время боя.",
+                "description": "{Plate of Dying Light}\n\nThis item reduces the Power skill of enemy hero by 25% during combat.",
                 "comboArtifactId": -1,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
@@ -302,11 +302,11 @@
                 "event": "You trip over the artifact, dust it off, and stick it in your pack."
             },
             "192": {
-                "name": "Хранитель Снов",
+                "name": "Sleepkeeper",
                 "cost": 50000,
                 "position": 9,
                 "type": 8,
-                "description": "{Хранитель Снов}\n\nДаёт существам иммунитет к магии разума.",
+                "description": "{Sleepkeeper}\n\nGives your units mind spells immunity.",
                 "comboArtifactId": -1,
                 "partOfComboArtifactId": -1,
                 "disabled": 0,
