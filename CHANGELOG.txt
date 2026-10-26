@@ -1,4 +1,4 @@
-Version 1.0 ()
-- added all artifacts available in hota 1.8.0
+Version 1.0 (26.10.2026)
+- added all artifacts available in hota 1.8.0 (with the exception of the Horn of the Abyss)
 - Badge of Courage is no longer grants immunity from mind spells
 - WoG compound artifact "Barbarian Axe of Ferrocity" now requires Sword of Hellfire, Shield of the Damned, Hellstorm Helmet and Breastplate of Brimstone
